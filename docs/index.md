@@ -8,16 +8,15 @@
 
 ## Escenario I Presencialidad y medidas extraordinarias de higiene
 
-## Comunidad de Madrid
-
 Educación Primaria: Grupos estables de convivencia.
 
-[Opciones para colegios, padres y madres](/escenario1)
+[Opciones escenario I para colegios, padres y madres](/escenario1)
 
 Referencias:
 
-[Comunidad de Madrid]: /normativaoficial/comunidadMadrid/index.md
+[Comunidad de Madrid](/normativaoficial/comunidadMadrid/index.md)
 
-Escenario II
+## Escenario II
 
-Escenario III
+## Escenario III
+
