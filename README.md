@@ -10,7 +10,9 @@ La documentación generada se organizara en el directorio /doc de este repositor
 
 **/doc/images**: directorio con ficheros **.jpg**
 
-**/doc/normativaoficial:** directorio con ficheros .md a modo de índice apuntando a normativa oficial, y copia de ficheros pdf oficiales. La subestructura de directorios se irá definiendo sobre la marcha en función de las aportaciones, pero manteniendo una similitud con la estructura de las administraciones públicas
+**/doc/normativaoficial:** directorio con ficheros .md a modo de índice apuntando a normativa oficial, y copia de ficheros .pdf oficiales. La subestructura de directorios se irá definiendo sobre la marcha en función de las aportaciones, pero manteniendo una similitud con la estructura de las administraciones públicas
+
+**/doc/opciones:** directorio con ficheros .md detallando dentro de cada tema, las opciones posibles, sus beneficios y perjuicios, asi como enlaces a información mas  detallada. 
 
 Cada directorio tendrá un fichero index.md que servirá de introducción a los contenidos del directorio
 
