@@ -20,6 +20,10 @@ Si quieres colaborar puedes hacerlo [aqui](https://github.com/f-alonso-vendrell/
 
 # Resumen
 
+Se presentan diferentes temas/opciones y los diferentes escenarios donde pueden ser aplicadas.
+
+Las opciones se incluyen [aqui](opciones/index.md)
+
 # Escenarios
 
 ## Escenario I Presencialidad y medidas extraordinarias de higiene
