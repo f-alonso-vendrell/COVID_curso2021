@@ -1,9 +1,7 @@
-# TOC
+# Tabla de Contenidos
 
 * Tabla de Contenidos
 {:toc}
-
-
 # Propósito
 
 Debido a la falta de agilidad que tiene la administración pública a la hora de analizar alternativas e implantar las mas adecuadas es necesario anticipar los posibles escenarios a los que como padres nos vamos a enfrentar el próximo curso debido al  COVID19.
