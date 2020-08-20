@@ -10,11 +10,11 @@
 
 Educación Primaria: Grupos estables de convivencia.
 
-[Opciones escenario I para colegios, padres y madres](/escenario1.md)
+[Opciones escenario I para colegios, padres y madres](escenario1.md)
 
 Referencias:
 
-[Comunidad de Madrid](/normativaoficial/comunidadMadrid/index.md)
+[Comunidad de Madrid](normativaoficial/comunidadMadrid/index.md)
 
 ## Escenario II
 
