@@ -10,7 +10,7 @@
 
 Educación Primaria: Grupos estables de convivencia.
 
-[Opciones escenario I para colegios, padres y madres](/escenario1)
+[Opciones escenario I para colegios, padres y madres](/escenario1.md)
 
 Referencias:
 
