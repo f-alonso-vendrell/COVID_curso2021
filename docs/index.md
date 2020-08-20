@@ -1,9 +1,6 @@
 # TOC
 
-{:toc}
-
-
-* TOC
+* Tabla de Contenidos
 {:toc}
 
 
