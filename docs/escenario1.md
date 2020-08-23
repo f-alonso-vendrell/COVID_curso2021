@@ -17,12 +17,12 @@ Dependiendo del curso cada comunidad autonoma establece el modelo de trabajo (gr
 
 [Mascarillas](/opciones/mascarillas)
 
-[Comunicaciones con el colegio y la administración](/opciones/comunicacion)
+[Comunicaciones con el colegio y la administración](opciones/comunicacion)
 
-[Comunicaciones entre padres](/opciones/comunicacion)
+[Comunicaciones entre padres](opciones/comunicacion)
 
-[Notificación de caso positivo COVID19 alumnos](/opciones/notificaciones)
+[Notificación de caso positivo COVID19 alumnos](opciones/notificaciones)
 
-[Notificación de caso positivo COVID19 personal del colegio](/opciones/notificaciones)
+[Notificación de caso positivo COVID19 personal del colegio](opciones/notificaciones)
 
 ## Referencias
