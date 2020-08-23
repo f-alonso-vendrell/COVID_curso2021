@@ -15,7 +15,7 @@ Dependiendo del curso cada comunidad autonoma establece el modelo de trabajo (gr
 
 ## Opciones
 
-[Mascarillas](/opciones/mascarillas)
+[Mascarillas](opciones/mascarillas)
 
 [Comunicaciones con el colegio y la administración](opciones/comunicacion)
 
