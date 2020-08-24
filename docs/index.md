@@ -14,11 +14,17 @@ La agilidad que se puede conseguir mediante la colaboración individual es muy s
 * Voluntariedad: Se presentan opciones para poder ser tenidas en cuenta por los padres, pero en última instancia cada familia tiene que tomar sus propias decisiones
 * Adaptabilidad: Conforme aprendemos y vemos resultados las opciones disponibles se pueden ampliar o reducir, incluso descartar. 
 
-# Estructura y modo de trabajar del repositorio
+# Como colaborar
 
-Si quieres colaborar puedes hacerlo [aqui](https://github.com/f-alonso-vendrell/COVID_curso2021)
+El contenido de estas páginas se controla como un repositorio de github, con paginas generadas a partir del directorio /docs
 
-# Resumen
+![estructura repositorio](images/estructuraRepositorio.jpg "Estructura del repositorio, explicado en el README.md")
+
+Si quieres contribuir con ideas o quieres debatir ciertos aspectos lo puedes hacer [aqui](https://github.com/f-alonso-vendrell/COVID_curso2021/issues), usando las "Issues" = "Incidencias" de github
+
+Si quieres colaborar modificando el contenido puedes hacerlo [aqui](https://github.com/f-alonso-vendrell/COVID_curso2021) donde se indica como hacerlo
+
+# Opciones disponibles
 
 Se presentan diferentes temas/opciones y los diferentes escenarios donde pueden ser aplicadas.
 
@@ -36,7 +42,11 @@ Referencias:
 
 [Comunidad de Madrid](normativaoficial/comunidadMadrid/index.md)
 
-## Escenario II
+## Escenario II Semipresencialidad
 
-## Escenario III
+**PENDIENTE**
+
+## Escenario III Confinamiento
+
+**PENDIENTE**
 
