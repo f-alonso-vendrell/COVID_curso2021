@@ -18,7 +18,7 @@
 ### Pagina web del colegio
 ### Pagina web del AMPA
 ### Herramientas de la administración
-* **Comunidad de Madrid** [Programa ROBLE](https://www.comunidad.madrid/servicios/educacion/raices#roble)
+* **Comunidad de Madrid** [Programa ROBLE](https://www.comunidad.madrid/servicios/educacion/raices#roble) --- 
 [Acceso directo](https://raices.madrid.org/raiz_app/jsp/portal/portalraices.html) 
 
 ### Anuncio puerta de colegio
