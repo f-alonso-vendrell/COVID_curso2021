@@ -22,21 +22,31 @@ Existe un fichero [pruebagithub](https://github.com/f-alonso-vendrell/COVID_curs
 Podeis ver este [video](https://es.linkedin.com/learning/github-para-programadores/editar-archivos-en-github) y trabajar sobre el fichero docs/pruebagithub.md haciendo cambios. Recuerda estos cambios son en tu repositorio, asi que puedes hacer cuantos quieras hasta que tengas confianza en como hacer los cambios
 
 Para editar, teneis que ir al fichero que querais cambiar y hacer click en el lapiz
-IMG1
+![editarfichero](images/editarfichero.jpg "Hacer click en el lapiz para editar")
 
-Para añadir un fichero tiene que ir al directorio donde lo quieres añadir y hacer click en **Add File**, si vas a crear un archivo acuerdate que tiene que terminar en **.md**
-IMG2
+Para crear un fichero md (de texto) tiene que ir al directorio donde lo quieres añadir y hacer click en **Add File -> Create New File**, recuerda que el nombre del fichero que tiene que terminar en **.md**
+![crearfichero](images/crearficheromd.jpg "Navegar al directorio y hacer click en Add File despues en Create New File")
 
-# 4.- Como borrar tu repositorio para empezar de cero
+# 4.- Como subir ficheros pdf e imagenes
+
+Para subir ficheros pdf o imagenes tiene que ir al directorio donde los quieres añadir y hacer click en **Add File -> Upload Files**, arrastra los archivos que quieras subir y haz COMMIT (lo mismo que en el paso 3)
+![crearfichero](images/crearficheromd.jpg "Navegar al directorio y hacer click en Add File despues en Upload Files")
+
+# 5.- Como compartir tus cambios (o PULL REQUEST)
+
+Si has practicado el punto 3 y 4 habras hecho una serie de COMMITs con cambios en un fichero, una vez quieras compartir esos cambios se debe hacer con lo que github llama **PULL REQUEST** que viene a ser **quiero compartir mis cambios**
+
+# 6.- Como actualizar tu repositorio con los cambios de otros
+
+Es posible que desde que hiciste tu copia (o FORK) otras personas hayan hecho cambios en el repositorio y los hayan compartido, como puedes incluir esos cambios en tu propio repositorio, pues tambien con un **PULL REQUEST**
+
+Es recomendable hacer este ejercicio de manera periodica para intentar trabajar siempre sobre la versión mas reciente y evitar "colisiones"
+
+# 7.- 
+
+# 8.- Como borrar tu repositorio para empezar de cero
 
 A veces cuando se esta empezando se puede llegar a no saber exactamente como contiuar y se prefiere empezar desde cero. Para ello puedes borrar tu repositorio
 ** ADVERTENCIA SI BORRAS TU REPOSITORIO TODOS TUS CAMBIOS SE BORRARAN **
 
-
-
-# 5.- Como compartir tus cambios
-
-# 6.- Como actualizar tu repositorio con los cambios de otros
-
-# 7.- 
-
+Podeis ver en este [video](https://www.youtube.com/watch?v=9IvDYugm18Y) como hacerlo, y una vez completado puedes volver al punto 2 para tener una copia fresca del repositorio
