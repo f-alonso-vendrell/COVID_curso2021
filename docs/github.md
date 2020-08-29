@@ -21,11 +21,19 @@ Existe un fichero [pruebagithub](https://github.com/f-alonso-vendrell/COVID_curs
 
 Podeis ver este [video](https://es.linkedin.com/learning/github-para-programadores/editar-archivos-en-github) y trabajar sobre el fichero docs/pruebagithub.md haciendo cambios. Recuerda estos cambios son en tu repositorio, asi que puedes hacer cuantos quieras hasta que tengas confianza en como hacer los cambios
 
-Para editar, teneis que ir al fichero que querais cambiar y hacer click en el lapiz
+**Para editar**, teneis que ir al fichero que querais cambiar y hacer click en el lapiz
 ![editarfichero](images/editarfichero.jpg "Hacer click en el lapiz para editar")
 
-Para crear un fichero md (de texto) tiene que ir al directorio donde lo quieres añadir y hacer click en **Add File -> Create New File**, recuerda que el nombre del fichero que tiene que terminar en **.md**
+**Para crear** un fichero md (de texto) tiene que ir al directorio donde lo quieres añadir y hacer click en **Add File -> Create New File**, recuerda que el nombre del fichero que tiene que terminar en **.md**
 ![crearfichero](images/crearficheromd.jpg "Navegar al directorio y hacer click en Add File despues en Create New File")
+
+# 3.1.- Sintaxis de markdown (o como se escribe cada pagina web)
+
+Las paginas web de este repositorio se generan a partir de los ficheros **markdown** (que terminan en .md), de eso se encarga github, lo que nosotros tenemos que hacer es seguir una forma de escribir para decirle como poner titulos, letra negrita, imagenes, enlances...
+
+En [https://markdown.es/sintaxis-markdown/](https://markdown.es/sintaxis-markdown/) podeis ver como hay que escribir para que el resultado sea como se espera.
+
+De nuevo podeis usar el fichero **docs/pruebagithub.md** para editarlo y ver el resultado
 
 # 4.- Como subir ficheros pdf e imagenes
 
@@ -42,7 +50,7 @@ Es posible que desde que hiciste tu copia (o FORK) otras personas hayan hecho ca
 
 Es recomendable hacer este ejercicio de manera periodica para intentar trabajar siempre sobre la versión mas reciente y evitar "colisiones"
 
-# 7.- 
+# 7.- Como resolver colisiones (cuando otra persona modifica el mismo fichero que yo he modificado)
 
 # 8.- Como borrar tu repositorio para empezar de cero
 
