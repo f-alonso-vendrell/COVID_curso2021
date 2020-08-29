@@ -4,6 +4,10 @@ En vista de la escasa información recibida por parte de las administraciones pu
 
 La documentación generada se organizara en el directorio /doc de este repositorio de manera que este disponible como [pagina web directamente](https://f-alonso-vendrell.github.io/COVID_curso2021/). En ese directorio se encontrará de manera detallada el propósito e introducción.
 
+# Como usar github
+
+Puedes seguir la [guia](docs/github.md) o videos tutoriales sobre como usar github (es mucho mas facil de lo que parece)
+
 # Organización del repositorio
 
 **/doc** : directorio con toda la documentación disponible en este directorio y subdirectorios como ficheros **.md, .jpg o .pdf**
