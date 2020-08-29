@@ -16,13 +16,17 @@ La agilidad que se puede conseguir mediante la colaboración individual es muy s
 
 # Como colaborar
 
-El contenido de estas páginas se controla como un repositorio de github, con paginas generadas a partir del directorio /docs
+El contenido de estas páginas se controla como un repositorio de github 
+
+Existe multitud de paginas y videos sobre como usar github. Para este repositorio es muy poco lo que hay que aprender asi que existe el fichero [github.md](github.md) donde se explica los pasos minimos a seguir para colaborar
+
+Las paginas son generadas a partir del directorio /docs
 
 ![estructura repositorio](images/estructuraRepositorio.jpg "Estructura del repositorio, explicado en el README.md")
 
-Si quieres contribuir con ideas o quieres debatir ciertos aspectos lo puedes hacer [aqui](https://github.com/f-alonso-vendrell/COVID_curso2021/issues), usando las "Issues" = "Incidencias" de github
+Si quieres contribuir con ideas o quieres debatir ciertos aspectos lo puedes hacer [aqui](https://github.com/f-alonso-vendrell/COVID_curso2021/issues), usando las "Issues" = "Incidencias" de github, para ver como darte de alta en github sigue el paso 1 de nuestra [guia](github.md)
 
-Si quieres colaborar modificando el contenido puedes hacerlo [aqui](https://github.com/f-alonso-vendrell/COVID_curso2021) donde se indica como hacerlo
+Si quieres colaborar modificando el contenido puedes hacerlo [aqui](https://github.com/f-alonso-vendrell/COVID_curso2021) donde se indica como hacerlo o siguiendo nuestra [guia](github.md)
 
 # Opciones disponibles
 
